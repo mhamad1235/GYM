@@ -1,0 +1,513 @@
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.m112{position: fixed;
+  z-index: 1;
+font-size: 40px;
+font-family: 'Smooch Sans', sans-serif;
+	-webkit-font-smoothing: antialiased;
+
+}
+
+.active:hover{  
+transition-duration: 1s;
+color: tomato;}
+  .active1:hover{
+    transition-duration: 1s;
+  color: tomato;}
+    .active2:hover{
+      transition-duration: 1s;
+    color: tomato;}
+.m11{
+font-size: 60px;
+color: #FF0000;
+font-family: 'Smooch Sans', sans-serif;
+
+
+}
+
+#mhamad{
+
+   background-image:linear-gradient(rgba(0, 0, 0, 1),rgba(0 ,0 ,0 ,0.4)),url("back (2).jpg");
+background-size:cover;
+     height: 100%;
+     background-position: center;
+     background-repeat:no-repeat;
+
+
+}
+body, html {
+  height: 100%;
+}
+
+.m12{
+
+border-radius: 10px;
+height: 40px;
+width:60px;
+animation: gm 2s;
+}
+@keyframes gm {
+  0%{padding-top:300px;
+    transform: rotateY(360deg);
+  transform: rotateX(360deg);}
+}
+.m13{border-radius: 10px;
+height: 40px;
+width:60px;
+animation: in 2s;
+}
+@keyframes in {
+  0%{padding-top:300px;
+    transform: rotateY(360deg);
+transform: rotateX(360deg);
+  }}
+  .m14{border-radius: 10px;
+  height: 40px;
+  width:60px;
+animation: fc 2s;
+}@keyframes fc {
+  0%{padding-top:300px;
+    transform: rotateY(360deg);
+  transform: rotateX(360deg);}
+
+}
+.signin{
+  font-family: 'Smooch Sans', sans-serif;
+  color:  black;
+  font-size: 30px;
+border-radius:  9px;
+  width: 155px;
+  height: 60px;
+  background-color: yellow;
+
+animation: sig 2s;
+
+}
+.signin:hover{
+  transition-duration: 0.4s;
+  font-size: 35px;
+}
+.but{
+margin-left: 130px;
+}
+@keyframes sig {
+  0%{
+  padding-top:50px;
+  transform: rotateY(360deg);
+transform: rotateX(360deg);
+}
+
+
+
+}
+.img{
+
+height: 50px;
+width: 90px;
+}
+.contact{
+  padding-left: 10px;
+color: #FF0000;
+
+font-family: 'Smooch Sans', sans-serif;
+
+}
+.hr1{
+color:   #DC143C;
+}
+.rasm{
+  border-radius: 60%;
+  margin-left: 80%;
+
+  width: 200px;
+  height: 150px;
+}
+.rasm1{
+    margin-left: 81%;
+    font-family: 'Smooch Sans', sans-serif;
+      color: #FF6347;
+      font-size: 22px;
+}
+.yakam{
+
+  margin-left: 42%;
+
+}
+.yakam:hover{color: red}
+
+#icon{
+  height: 500px;
+padding-top: 5%;
+background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0 ,0 ,0 ,0.2));
+color: black;
+}
+
+
+#oo{
+background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0 ,0 ,0 ,0.2));
+padding-top: 0%;
+height: 1000px;
+padding-left: 3.5%;
+
+
+
+}
+.qqw{
+padding-top: 100px;
+  font-size: 30px;
+  font-family: 'Smooch Sans', sans-serif;
+  padding-left: 43%;
+
+}
+.mk{
+  width: 40px;
+  height:40px;
+}
+.kk{
+  float: left;
+  width: 400px;
+  height:200px ;
+}
+.kk1{
+  float: Center;
+  width: 400px;
+  height:200px ;
+}
+  .kk2{
+    float: right;
+    width: 400px;
+    height:200px ;
+  }
+.lo{
+  font-size: 3vw;
+  text-align: center;
+  font-family: 'Smooch Sans', sans-serif;
+  color: #eF0002;
+
+}
+
+
+.a{
+  text-align: center;
+  font-style: italic;
+font-weight: 600;
+font-family: 'Smooch Sans', sans-serif;
+
+}
+.ob{  border-radius: 0;
+
+padding-left: 5%;
+  height: 480px;
+  width: 400px;
+}
+.end{
+height: 1050px;
+background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0 ,0 ,0 ,0.2));
+}
+.container{
+  text-align: center;
+height: 50%;
+}
+.o{
+  height: 600px;
+  width: 100%;
+}
+.name{
+
+  font-size: 59px;
+  font-family: 'Smooch Sans', sans-serif;
+  color:  #FF0000;
+}
+.hrr{margin-left: 25%;
+  width: 50%;
+  border: 1;
+height:2px;
+background: #333;
+background-image: -webkit-linear-gradient(left, #DC143C, #98FB98 , #DC143C);
+
+}
+.p{height: 480px;
+  width: 100%;
+border: 3px solid snow;
+
+}
+.p:hover{transition-duration: 0.8s;
+
+border: 4px yellow inset;
+filter:grayscale(10);}
+
+.rony{
+  background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0 ,0 ,0 ,-2));
+  height: 190%;
+
+color: black;
+padding-left: 10px;
+padding-top: 50px;
+}
+.uui{
+  float: right;
+  width: 50%;
+  height: 85%;
+}
+.wwe{float: left;
+color: #FF0000;
+font-family: "Muli", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+.wwee{font-size: 25px;
+  font-family: 'Smooch Sans', sans-serif;
+}
+.video{
+  height: 780px;
+  width: 100%;
+}
+.m1{
+  width: 100%;
+  padding-left: 20%;
+
+}
+.uui:hover{
+  transition-duration: 0.5s;
+border: solid 3px blue;
+}
+.bosh{
+  height:20px;
+}
+.mhamad{
+  padding-top: 150px;
+}
+ul {
+  margin-left: 5px;
+  width: 100%;
+  padding-top: 20px;
+  list-style-type: none;
+}
+
+li {
+
+width: 15%;
+  float: left;
+
+}
+
+
+li a {
+
+  color: #6495ED;
+}
+ul ul li{
+border-right: solid 2px red;
+  width: 125px;
+}
+ul ul{
+  z-index: 1;
+text-align: left;
+  display: none;
+}
+
+ul li:hover ul{
+
+  display: block;
+
+
+}
+ul ul li a{
+
+
+}
+ul ul li a:hover{
+
+text-align: center;
+    border-bottom: solid 4px #FF0000;
+    background-color: snow;
+    border-radius: 20px;
+}
+
+
+.home{
+position: relative;
+left: 25px;
+border-radius: 40px;
+  width: 50px;
+  height: 45px;
+}
+.home:hover{
+  transform: rotate(360deg);
+  transition-duration: 2.5s;
+height: 50px;
+}
+.a12{
+  animation: io 3s;
+}
+@keyframes io {
+  0%{margin-left: 300px;
+transform: rotate(5deg);
+  }
+  50%{margin-right: 300px;
+transform: rotate(-5deg);
+  }
+}
+.a3{  animation: ip 3s;
+}
+@keyframes ip {
+  0%{margin-right: 300px;
+transform: rotate(5deg);
+  }
+  50%{margin-left: 300px;
+transform: rotate(-5deg);
+  }
+}
+.ma97{
+  color: yellow;
+
+
+}
+#end{
+
+
+  height: 200px;
+background-color: #6495ED;
+border-top-left-radius: 100px;
+border-bottom-right-radius: 100px;
+
+}
+.fot-name{
+  font-size: 35px;
+text-align: center;
+padding-top: 2%;
+font-family: 'Smooch Sans', sans-serif;
+}
+.final-ani{
+  animation: mhamad 2.5s infinite;
+
+}
+@keyframes mhamad {
+  0%{color: yellow;}
+  25%{color:  #6495ED;}
+}
+.final-tb{
+  margin-left: 10%;
+
+}
+
+.m124{
+  border-radius: 100px;
+  width: 30px;
+  height: 30px;
+  margin-left: 1250%;
+float: left;
+}
+#mr{
+  padding-left: 10px;
+line-height: 29px;
+font-size: 17px;
+}
+  .mrh{text-align: center;
+    color: #FF0000;
+
+    font-family: 'Smooch Sans', sans-serif;}
+    .mrp{
+      font-family: 'Smooch Sans', sans-serif;
+
+    }
+    .legend{
+      height: 400px;
+      position: relative;
+      width: 200px;
+      border-top-left-radius: 60px;
+       border-bottom-right-radius:50px;
+       border: 3px solid yellow;
+
+    }
+@media all and (max-width:500px) {
+
+p{font-size: 20px;}
+  h1 h2 h3 h4{font-size: 20px;}
+    a{font-size: 20px;}
+    img{
+      width: 20px;
+      height: 20px;
+    }
+    td{
+      width: 10%;
+    }
+    #icon p{
+      font-size: 10px;
+    }
+    #icon img{
+  width: 100px;
+  height: 100px;
+    }
+    #icon h1{
+      font-size: 20px;
+    }
+    #icon {
+      text-align: center;
+      height: 400px;
+    }
+.mhamad h1{
+  text-align: center;
+  font-family: 'Smooch Sans', sans-serif;
+  font-size: 30px;
+}
+#mhamad img{
+  position: relative;
+  right: 10px;
+  width: 30px;
+  height: 40px;
+}
+.home{
+  width: 40px;
+  height: 40px;
+}
+.rony h1{
+  font-size: 20px;
+  }
+  .rony p{
+    font-size: 15px;
+    }
+
+
+#mr h1 {
+    font-size: 20px;
+}
+#mr p{
+    font-size: 15px;
+}
+#mr img{
+  width: 114px;
+}
+#end a {
+  font-size: 10px;
+}
+#end table{
+  width: 10%;
+}
+#end {
+  height: 180px;
+}
+#end span{
+  font-size: 25px;
+
+}
+#end div{
+  font-size: 25px;
+
+}
+#end img{
+  position: relative;
+  right: 280px;
+
+}
+.signin{
+  position: relative;
+  right: 100px;
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+}
+.signin:hover{font-size: 25px;}
+}

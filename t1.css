@@ -1,0 +1,239 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body,html{
+background-image:linear-gradient(rgba(0, 0, 0, 1),rgba(0 ,0 ,0 ,0.4)),url("hard.jpg");
+background-size:cover;
+height: 110%;
+     background-position: center;
+     background-repeat:no-repeat;
+}
+
+.m112{position: fixed;
+font-size: 40px;
+font-family: 'Smooch Sans', sans-serif;
+}
+
+.active:hover{
+transition-duration: 1s;
+color: tomato;}
+  .active1:hover{
+    transition-duration: 1s;
+  color: tomato;}
+    .active2:hover{
+      transition-duration: 1s;
+    color: tomato;}
+.m11{
+font-size: 60px;
+color: #FF0000;
+font-family: 'Smooch Sans', sans-serif;
+}
+ul {
+  margin-left: 5px;
+  width: 100%;
+  padding-top: 20px;
+  list-style-type: none;
+}
+
+li {
+
+width: 15%;
+  float: left;
+
+}
+
+
+li a {
+
+  color: #6495ED;
+}
+ul ul li{  z-index: 1;
+border-right: solid 2px red;
+  width: 125px;
+}
+ul ul{
+  z-index: 1;
+text-align: left;
+  display: none;
+}
+
+ul li:hover ul{
+  z-index: 1;
+  display: block;
+
+
+}
+ul ul li a{
+
+
+}
+ul ul li a:hover{
+
+text-align: center;
+    border-bottom: solid 4px #FF0000;
+    background-color: snow;
+    border-radius: 20px;
+}
+
+
+.home{
+position: relative;
+left: 25px;
+border-radius: 40px;
+  width: 50px;
+  height: 45px;
+}
+.home:hover{
+  transform: rotate(360deg);
+  transition-duration: 2.5s;
+height: 50px;
+}
+.cor{
+  position: relative;
+  left: 200px;
+}
+.w{
+  font-size: 55px;
+  font-family:fantasy;
+  color: crimson;
+
+position: relative;
+top: 100px;
+text-align: center;
+
+}
+
+video{border: 3px solid snow;}
+table{
+  margin-top: 100px;
+}
+tr{
+  width: 25%;
+}
+th{width: 25%;
+font-family: fantasy;
+font-size: 30px;
+color: crimson;}
+.tr2{
+  margin-bottom: 100px;
+}
+p{
+  color: crimson;
+
+
+}
+#end{
+  margin-top: 2px;
+
+  height: 300px;
+background-color: #6495ED;
+border-top-left-radius: 100px;
+border-bottom-right-radius: 100px;
+
+}
+.fot-name{
+  font-size: 35px;
+text-align: center;
+padding-top: 2%;
+font-family: 'Smooch Sans', sans-serif;
+}
+.final-ani{
+  animation: mhamad 2.5s infinite;
+
+}
+@keyframes mhamad {
+  0%{color: yellow;}
+  25%{color:  #6495ED;}
+}
+.final-tb{
+  margin-left: 10%;
+
+}
+
+.m124{
+  border-radius: 100px;
+  width: 30px;
+  height: 30px;
+  margin-left: 1250%;
+float: left;
+}
+@media all and (max-width:500px) {
+
+p{font-size: 15 px;}
+  h1 {font-size: 15px;}
+    a{font-size: 20px;}
+    img{
+      width: 20px;
+      height: 20px;
+    }
+    td{
+      width: 10%;
+    }
+    #icon p{
+      font-size: 10px;
+    }
+    #icon img{
+  width: 100px;
+  height: 100px;
+    }
+    #icon h1{
+      font-size: 20px;
+    }
+    #icon {
+      text-align: center;
+      height: 400px;
+    }
+.mhamad h1{
+  text-align: center;
+  font-size: 30px;
+}
+#mhamad img{
+  position: relative;
+  right: 10px;
+  width: 30px;
+  height: 40px;
+}
+.home{
+  width: 40px;
+  height: 40px;
+}
+.rony h1{
+  font-size: 20px;
+  }
+  .rony p{
+    font-size: 15px;
+    }
+
+
+#mr h1 {
+    font-size: 20px;
+}
+#mr p{
+    font-size: 15px;
+}
+#mr img{
+  width: 114px;
+}
+#end a {
+  font-size: 10px;
+}
+#end table{
+  width: 10%;
+}
+#end {
+  height: 180px;
+}
+#end span{
+  font-size: 25px;
+
+}
+#end div{
+  font-size: 25px;
+
+}
+#end img{
+  position: relative;
+  right: 280px;
+  bottom: 100px;
+
+}}

@@ -1,0 +1,66 @@
+.m1{
+
+
+
+  font-size: 40px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  padding-top: auto;
+}
+#jj{
+
+  background-image: url("wwe.jpg");
+  border-radius: 150px;
+    height: 500px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back{
+  float: right;
+    border-radius: 90px;
+width: 250px;
+height: 150px;
+
+
+}
+.aa{
+
+  font-family: "Sofia", sans-serif;
+   font-size: 30px;
+   text-shadow: 3px 3px 3px #ababab;
+
+  color: #000080;
+
+}
+.mk{
+width: 50px;
+width: 50px;
+border-radius: 90px;
+
+
+
+
+
+}
+.back1{
+  border-radius: 90px;
+float: left;
+  width: 250px;
+  height: 150px;
+
+}
+.a1{
+  font-size: 3rem;
+  padding-left: 15px;
+  color:#A52A2A
+}
+.a1:hover{
+  color: #000080;
+}
+.a2{
+  font-size: 3rem;
+padding-left: 50%;
+  color:#A52A2A
+}
